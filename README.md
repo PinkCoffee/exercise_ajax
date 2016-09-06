@@ -1,3 +1,3 @@
 # exercise_ajax
 
-changes has been made - Nicholai
+changes has been made (tutorial) - Nicholai
